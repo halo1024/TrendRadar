@@ -1,7 +1,27 @@
 {
-  "generated_at": "2026-02-14T11:08:18.654431+08:00",
-  "total_titles_processed": 772,
+  "generated_at": "2026-02-14T11:34:35.050767+08:00",
+  "total_titles_processed": 806,
   "failed_sources": [],
-  "trends": [],
+  "trends": [
+    {
+      "keyword_group": "保险 水滴保 高铁",
+      "match_count": 1,
+      "titles": [
+        {
+          "title": "美股极其脆弱！从SaaS、PE到保险、物业甚至物流“轮流大跌”，高盛交易员“疲惫且震惊”",
+          "url": "https://wallstreetcn.com/articles/3765638",
+          "source": "华尔街见闻",
+          "ranks": [
+            5,
+            6,
+            3
+          ],
+          "is_new": false,
+          "appearance_count": 8,
+          "time_info": "[00时57分 ~ 07时38分]"
+        }
+      ]
+    }
+  ],
   "report_image_url": "https://joyce677.github.io/TrendRadar/img/news.jpg"
 }
